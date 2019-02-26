@@ -1,0 +1,23 @@
+.a-container {
+  width: 300px;
+  height: 500px;
+  border: 1px solid #f29834;
+}
+
+.a-container .header {
+  height: 36px;
+  line-height: 36px;
+  background-color: #f29834;
+  padding: 0 10px;
+  overflow: hidden;
+}
+
+.a-container .header .title {
+  float: left;
+  color: #fff;
+}
+
+.a-container .header .close {
+  float: right;
+  color: #fff;
+}
