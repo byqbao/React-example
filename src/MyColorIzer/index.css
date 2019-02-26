@@ -1,0 +1,21 @@
+.MyColorIzer {
+  margin: 50px;
+}
+
+.MyColorIzer .izer {
+  width: 200px;
+  height: 200px;
+  background: #999;
+  margin-bottom: 10px;
+}
+
+.MyColorIzer .izer-input {
+  border: 1px solid #999;
+  padding: 4px;
+}
+
+.MyColorIzer .izer-btn {
+  padding: 4px 10px;
+  background: #999;
+  color: #fff;
+}
